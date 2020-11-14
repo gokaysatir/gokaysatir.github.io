@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="tr">
 <head>
   <!-- Theme Made By www.w3schools.com - No Copyright -->
   <title>numLock Soft</title>
