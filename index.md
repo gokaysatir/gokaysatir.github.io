@@ -347,13 +347,13 @@
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
       <div class="item active">
-        <h4> Tek merkezden tüm reyonların görsel tasarımlarını ve yerleşim planlarını istediğiniz şekilde düzenleyin.<br><span>numLock Soft Planogram ile...</span></h4>
+        <h4>Tek merkezden tüm reyonların görsel tasarımlarını ve yerleşim planlarını istediğiniz şekilde düzenleyin.
       </div>
       <div class="item">
-        <h4> Tek bir merkezden yönetime olanak sağlayan görsel tasarım özelliği sayesinde merkezde takip edilen ürünleri satışlarına göre reyonlara atayabilirsiniz.  <br><span>numLock Soft Planogram ile...</span></h4>
+        <h4>3 boyutlu görsel tasarım özelliği sayesinde merkezde takip edilen ürünleri satışlarına göre reyonlara atayabilirsiniz.
       </div>
       <div class="item">
-        <h4>Tasarımları şubelere web üzerinden anında yansıtabilirsiniz..<br><span>numLock Soft Planogram ile...</span></h4>
+        <h4>Tasarımları şubelere web üzerinden anında bildirebilirsiniz.<br>
       </div>
     </div>
     <!-- Left and right controls -->
