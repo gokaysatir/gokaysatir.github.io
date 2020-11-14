@@ -29,7 +29,7 @@
       color: #303030;
       font-weight: 400;
       margin-bottom: 30px;
-  }  
+  }
   .jumbotron {
       background-color: #003366;
       color: #fff;
@@ -81,7 +81,7 @@
       font-style: normal;
   }
   .panel {
-      border: 1px solid #99DBFE; 
+      border: 1px solid #99DBFE;
       border-radius:0 !important;
       transition: box-shadow 0.5s;
   }
@@ -139,7 +139,7 @@
   .navbar-default .navbar-toggle {
       border-color: transparent;
       color: #fff !important;
-    
+
   }
   footer .glyphicon {
       font-size: 20px;
@@ -158,7 +158,7 @@
     0% {
       opacity: 0;
       transform: translateY(70%);
-    } 
+    }
     100% {
       opacity: 1;
       transform: translateY(0%);
@@ -168,7 +168,7 @@
     0% {
       opacity: 0;
       -webkit-transform: translateY(70%);
-    } 
+    }
     100% {
       opacity: 1;
       -webkit-transform: translateY(0%);
@@ -199,7 +199,7 @@
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
-        <span class="icon-bar"></span>                        
+        <span class="icon-bar"></span>
       </button>
       <a class="navbar-brand" href="#myPage">numLock Soft</a>
     </div>
@@ -217,9 +217,8 @@
 </nav>
 
 <div class="jumbotron text-center">
-  <h1>numLock Soft</h1> 
-  <p>Size özel çözümler sunuyoruz.</p> 
-  
+  <h1>numLock Soft</h1>
+  <p>Size özel çözümler sunuyoruz.</p>
 </div>
 
 <!-- Container (About Section) -->
@@ -229,9 +228,7 @@
       <h1>Ürünlerimiz</h1><br>
       <h2>numLock Soft Planogram Yazılımı- 3 Boyutlu Raf ve Reyon Tasarımı</h2><br>
       <h4>Mağazalarınızın reyonlarını tek merkezden şekillendirin. 3 boyutlu arayüzü kullanarak hazırladığınız reyonlar istediğiniz tarihte mağazanızda uygulansın. Belirlediğiniz tarihler görevli kişilerce takip edilsin. Sipariş listeleriniz ve özel raporlarınız ile tek merkezden birçok veriyi yönetin. Tüm işlemleri mobil uyumlu web sayfaları ile gerçekleştirin.
-            numLock Planogram'ın tüm özellikleri hakkında bilgi almak için bizimle iletişime geçebilirsiniz.</h4><br>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-      <br>
+            numLock Planogram'ın tüm özellikleri hakkında bilgi almak için bizimle iletişime geçebilirsiniz.</h4>
     </div>
     <div class="col-sm-4">
             <img src="5.jpg " width="500" height="300" class="img-circle" alt="Cinque Terre">
@@ -247,7 +244,6 @@
     <div class="col-sm-8">
       <h2>numLock Soft CAD Çözümleri</h2><br>
       Mühendislik projelerinin gerektirdiği özelleşmiş yazılımları kendi CAD altyapımızı sizin için özelleştirerek ihtiyacınız olan tüm yeni özellikleri firmanıza ait CAD yazılımında sizlere sunabiliriz. Özelleştirilmiş yazılım istekleriniz için bizimle iletişime geçebilirsiniz.</h4><br>
-     
     </div>
   </div>
 </div>
@@ -260,10 +256,9 @@
       <div class="col-sm-8">
         <h2>numLock Soft Arşiv Otomasyon Yazılımı</h2><br>
         Tarama işlemlerinden veri girişine, ayrıntılı raporlara kadar tüm özellikleri sizlere sunuyoruz. Çalışmalarınızın yürütülmesi için milyonlarca sayfalık arşiv projelerini yönetmiş tecrübeli ekibimizle hizmetinize hazırız.</h4><br>
-       
       </div>
     </div>
-  </div>
+</div>
 
 <!-- Container (Services Section) -->
 <div id="services" class="container-fluid text-center">
@@ -310,55 +305,39 @@
 <!-- Container (Portfolio Section) -->
 <div id="portfolio" class="container-fluid text-center bg-grey">
   <h2>REFERANSLARIMIZ</h2><br>
-  
+
   <div class="row text-center slideanim">
     <div class="col-sm-2">
       <div class="thumbnail">
         <img src="DisisleriBakanligi.png" alt="DisisleriBakanligi" width="100" height="50">
-       
-    
       </div>
     </div>
     <div class="col-sm-2">
       <div class="thumbnail">
         <img src="Turksat.png" alt="Turksat" width="400" height="200">
-       
-     
       </div>
     </div>
-
     <div class="col-sm-2">
         <div class="thumbnail">
           <img src="Turkcell.png" alt="Turkcell" width="400" height="600">
-         
-       
         </div>
-      </div> 
+      </div>
       <div class="col-sm-2">
           <div class="thumbnail">
             <img src="YunusMarket.png" alt="YunusMarket" width="400" height="600">
-           
-         
           </div>
         </div>
         <div class="col-sm-2">
           <div class="thumbnail">
             <img src="MacellanYazilim.jpg" alt="MacellanYazilim" width="400" height="400">
-           
-         
           </div>
         </div>
-        
     <div class="col-sm-2">
       <div class="thumbnail">
         <img src="AydoMuhendislik.png" alt="AY-DO" width="200" height="100">
-      
-      
       </div>
-      
     </div>
   </div><br>
-  
 
   <div id="myCarousel" class="carousel slide text-center" data-ride="carousel">
     <!-- Indicators -->
@@ -367,7 +346,6 @@
       <li data-target="#myCarousel" data-slide-to="1"></li>
       <li data-target="#myCarousel" data-slide-to="2"></li>
     </ol>
-
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
       <div class="item active">
@@ -380,7 +358,6 @@
         <h4>Tasarımları şubelere web üzerinden anında yansıtabilirsiniz..<br><span>numLock Soft Planogram ile...</span></h4>
       </div>
     </div>
-
     <!-- Left and right controls -->
     <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
       <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
@@ -397,28 +374,19 @@
 <div id="pricing" class="container-fluid">
   <div class="text-center">
     <h2>HAKKIMIZDA</h2>
-    <h4>Choose a payment plan that works for you</h4>
   </div>
   <div class="row slideanim">
     <div class="col-sm-12 col-xs-12">
       <div class="panel panel-default text-center">
         <div class="panel-heading">
-          <h1>Basic</h1>
-        </div>
-        <div class="panel-body">
-
-          <h4>kskdsndsödsdnkln</h4>
-         
+          <h1>20 yıla yakın tecrübemiz ile iddalıyız.</h1>
         </div>
         <div class="panel-footer">
-          
-         
         </div>
-      </div>      
-    </div>     
-   
-      </div>      
-    </div>    
+      </div>
+    </div>
+      </div>
+    </div>
   </div>
 </div>
 
@@ -427,7 +395,6 @@
   <h2 class="text-center">İLETİŞİM</h2>
   <div class="row">
     <div class="col-sm-5">
-  
       <p><span class="glyphicon glyphicon-map-marker"></span> Üniversiteler Mahallesi 1596. Cadde Hacettepe Teknokent No: 6C/11   Çankaya/ANKARA </p>
       <p><span class="glyphicon glyphicon-phone"></span> +90 312 911 15 19-117</p>
       <p><span class="glyphicon glyphicon-envelope"></span> numlocksoft@gmail.com</p>
@@ -453,9 +420,6 @@
 
 <!-- Add Google Maps -->
 <div id="googleMap" style="height:400px;width:100%;">
-
-
-
     <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12250.179260550874!2d32.7359107!3d39.8620327!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xf7e5e725ee58f281!2snumLock+Soft!5e0!3m2!1str!2str!4v1532943238050" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
 
@@ -485,13 +449,13 @@ $(document).ready(function(){
       $('html, body').animate({
         scrollTop: $(hash).offset().top
       }, 900, function(){
-   
+
         // Add hash (#) to URL when done scrolling (default click behavior)
         window.location.hash = hash;
       });
     } // End if
   });
-  
+
   $(window).scroll(function() {
     $(".slideanim").each(function(){
       var pos = $(this).offset().top;
